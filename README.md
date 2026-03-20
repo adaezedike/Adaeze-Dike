@@ -68,7 +68,7 @@ Senior Data Analyst with hands-on experience across the full data lifecycle — 
 | [Certification Name] | [Coursera / DataCamp] | [View credential](link) |
 | [Certification Name] | [Other Issuer] | [View credential](link) |
 
-📄 [Download my CV](link)
+📄 [Download my CV](https://github.com/adaezedike/Adaeze-Dike/blob/main/ADAEZE%20DIKEupdated.pdf)
 
 ---
 
