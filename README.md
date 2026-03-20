@@ -1,6 +1,6 @@
 # Hi, I'm Adaeze Dike 👋
 
-Senior Data Analyst with hands-on experience across the full data lifecycle — from raw data ingestion and cleaning to predictive modelling, cloud pipelines, and interactive dashboards. I turn complex datasets into clear, actionable insights that drive real decisions.
+Data Analyst with hands-on experience across the full data lifecycle, from raw data ingestion and cleaning to predictive modelling, cloud pipelines, and interactive dashboards. I turn complex datasets into clear, actionable insights that drive real decisions.
 
 - 🌍 Based in Wales, UK
 - 💼 Open to Data Analyst & Data Engineer opportunities
@@ -51,7 +51,7 @@ Senior Data Analyst with hands-on experience across the full data lifecycle — 
 
 | Project | Description | Tools |
 |---|---|---|
-| [Drug Incident Intelligence Dashboard](https://github.com/christylyn/drug-incident-intelligence-dashboard) | Interactive dashboard analysing drug-related incidents by region, type and trend | Python, Power BI, SQL |
+| [Drug Effects Analysis](https://github.com/adaezedike/drug-effects-analysis) | Interactive Power BI dashboard analysing drug overdose rates, hospital admissions and demographic trends | Power BI, DAX, Excel,Power Query |
 | [KODEX Project](https://github.com/christylyn/KODEX-PROJECT) | [Add your description] | [Add your stack] |
 | [Coming soon] | End-to-end ML pipeline | Python, TensorFlow, AWS |
 | [Coming soon] | SQL analytics project | SQL, dbt, Tableau |
@@ -60,7 +60,7 @@ Senior Data Analyst with hands-on experience across the full data lifecycle — 
 
 ## 🎓 Education & Credentials
 
-**[Your Degree Title]** — [University Name], [Year]
+**BSc in computer Science** — Chukwuemeka Odumegwu Ojukwu University, 2021
 
 | Certification | Issuer | Verify |
 |---|---|---|
@@ -82,7 +82,7 @@ Senior Data Analyst with hands-on experience across the full data lifecycle — 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin])
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[your-email])
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[adaezelyn@gmail.com])
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://[your-portfolio])
 
 ---
